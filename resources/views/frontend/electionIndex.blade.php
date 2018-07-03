@@ -2,8 +2,20 @@
 
 @section('title', app_name() . ' | '.__('navs.general.home'))
 
+@push('after-styles')
+    <style>
+        .mainpanel {
+            background: url({{asset('img/photo4.jpg')}}) no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+    </style>
+@endpush
 @section('content')
-    <div class="contentpanel">
+    <div class="contentpanel result-form-bg">
+        <div style="margin-bottom: 15em"></div>
         <div class="panel panel-default">
             <div class="panel-heading">
                 <div class="panel-btns">
