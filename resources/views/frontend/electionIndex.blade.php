@@ -15,13 +15,13 @@
 @endpush
 @section('content')
     <div class="contentpanel result-form-bg">
-        <div style="margin-bottom: 15em"></div>
-        <div class="panel panel-default">
+        <div class="hidden-xs hidden-sm" style="margin-bottom: 15em"></div>
+        <div class="panel panel-dark">
             <div class="panel-heading">
                 <div class="panel-btns">
                     <a href="" class="minimize">−</a>
                 </div>
-                <h4 class="panel-title">Election Results Retrieval</h4>
+                <h4 class="panel-title">Election Results Retrieval For Elections Within EKITI State, Nigeria</h4>
                 <p>Enter parameters to search for a specific election.</p>
             </div>
             <div class="panel-body">

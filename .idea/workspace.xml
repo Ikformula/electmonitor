@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccc9b620-c0f0-49ed-b237-d0e44d136c70" name="Default" comment="database creds">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public.zip.jpg" afterPath="" />
+    <list default="true" id="ccc9b620-c0f0-49ed-b237-d0e44d136c70" name="Default" comment="Wrap commit september 14th 2018">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/photo4.jpg" afterPath="$PROJECT_DIR$/public/img/photo4.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.php" afterPath="$PROJECT_DIR$/config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/frontend/electionIndex.blade.php" afterPath="$PROJECT_DIR$/resources/views/frontend/electionIndex.blade.php" />
     </list>
     <ignored path="elect_monitor.zip" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +22,7 @@
       <file leaf-file-name="electionResults.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/frontend/electionResults.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="224">
               <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
               <folding />
             </state>
@@ -44,13 +44,9 @@
       <file leaf-file-name="electionDataForms.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/backend/electionDataForms.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
+            <state relative-caret-position="1728">
               <caret line="108" column="78" lean-forward="false" selection-start-line="108" selection-start-column="78" selection-end-line="108" selection-end-column="78" />
-              <folding>
-                <element signature="e#690#5039#0#HTML" expanded="false" />
-                <element signature="e#2131#3573#0#HTML" expanded="false" />
-                <element signature="e#3973#4940#0#HTML" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -58,7 +54,7 @@
       <file leaf-file-name="photosGallery.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/backend/includes/partials/photosGallery.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
+            <state relative-caret-position="2048">
               <caret line="128" column="0" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
               <folding>
                 <marker date="1530212450252" expanded="true" signature="4773:6010" ph="..." />
@@ -75,21 +71,19 @@
       <file leaf-file-name=".env" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.env">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="368">
+              <caret line="23" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="electionIndex.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="electionIndex.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/frontend/electionIndex.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-              <folding>
-                <element signature="e#519#546#0#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="304">
+              <caret line="34" column="72" lean-forward="true" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="72" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -107,8 +101,8 @@
       <file leaf-file-name="electionApp.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/frontend/layouts/electionApp.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="67" column="26" lean-forward="false" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
+            <state relative-caret-position="880">
+              <caret line="55" column="76" lean-forward="false" selection-start-line="55" selection-start-column="76" selection-end-line="55" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -117,18 +111,8 @@
       <file leaf-file-name="database.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/database.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="58" column="29" lean-forward="true" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="163" column="35" lean-forward="false" selection-start-line="163" selection-start-column="35" selection-end-line="163" selection-end-column="35" />
+            <state relative-caret-position="736">
+              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -209,7 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resources/views/backend/includes/partials/pollingStationsSelect.blade.php" />
         <option value="$PROJECT_DIR$/app/Models/Auth/Traits/Attribute/UserAttribute.php" />
         <option value="$PROJECT_DIR$/resources/views/backend/auth/user/edit.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Backend/Election/AgentAssignmentController.php" />
@@ -229,7 +212,6 @@
         <option value="$PROJECT_DIR$/resources/views/backend/includes/partials/electionTypeSelect.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/backend/layouts/app.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/backend/createElection.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/frontend/layouts/electionApp.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/backend/includes/partials/placesSelect.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Requests/Election/SearchElectionsRequest.php" />
         <option value="$PROJECT_DIR$/app/Providers/ComposerServiceProvider.php" />
@@ -257,9 +239,11 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/Backend/Election/ElectionController.php" />
         <option value="$PROJECT_DIR$/resources/views/backend/electionDataForms.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/backend/includes/partials/photosGallery.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/frontend/electionIndex.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/frontend/Procfile" />
         <option value="$PROJECT_DIR$/config/database.php" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/layouts/electionApp.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/frontend/electionIndex.blade.php" />
       </list>
     </option>
   </component>
@@ -409,8 +393,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -598,14 +580,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="copyright" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="SearchEverywhereHistoryKey" value="da&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/config/database.php&#10;datab&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/config/database.php&#10;.env&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/.env&#10;web&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/routes/web.php&#10;Elect&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Http/Controllers/ElectionResultsController.php&#10;Elec&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/resources/views/frontend/electionResults.blade.php&#10;we&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/routes/web.php&#10;fie&#9;null&#9;null&#10;Election&#9;null&#9;null&#10;welcome&#9;null&#9;null&#10;helpers&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/helpers.php&#10;Aspi&#9;null&#9;null&#10;Vote&#9;null&#9;null&#10;f&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/public/brackets/js/flot/jquery.flot.min.js&#10;custom&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/public/brackets/js/custom.js&#10;categor&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/public/brackets/js/flot/jquery.flot.categories.min.js&#10;charts&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/public/brackets/js/charts.js&#10;HomeC&#9;null&#9;null&#10;Comp&#9;null&#9;null&#10;elect&#9;null&#9;null&#10;elec&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Http/Controllers/Backend/Election/ElectionController.php&#10;cre&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/resources/views/backend/createElection.blade.php&#10;Carbon&#9;null&#9;null&#10;bootstrap.css&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/css/bootstrap.min.css&#10;Field&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Http/Controllers/Backend/Election/FieldAgentController.php&#10;admin&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/routes/backend/admin.php&#10;As&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Models/Aspirant.php&#10;side&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/resources/views/backend/includes/sidebar.blade.php&#10;Agent&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Http/Controllers/Backend/Election/AgentAssignmentController.php&#10;getPollingStation&#9;null&#9;null&#10;User&#9;null&#9;null&#10;footer&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/resources/views/backend/includes/footer.blade.php&#10;Electi&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Models/Election.php&#10;Aspir&#9;null&#9;null&#10;PlaceTy&#9;null&#9;null&#10;Place&#9;null&#9;null&#10;USer&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Models/Auth/User.php&#10;Compos&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Providers/ComposerServiceProvider.php&#10;fiel&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Http/Controllers/Backend/Election/FieldAgentController.php&#10;Ele&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Models/Election.php&#10;Agen&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Models/AgentAssignment.php&#10;Glo&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Http/Composers/GlobalComposer.php&#10;Side&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/resources/views/backend/includes/sidebar.blade.php&#10;Composer&#9;null&#9;null&#10;Sid&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/resources/views/backend/includes/sidebar.blade.php&#10;Pl&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Models/Place.php&#10;Login&#9;null&#9;null&#10;isAdmin&#9;null&#9;null&#10;Elc&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Http/Controllers/Elections/ElectionController.php&#10;Routeservice&#9;null&#9;null" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ka/aboss" />
+    <property name="SearchEverywhereHistoryKey" value=".en&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/.env&#10;da&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/config/database.php&#10;datab&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/config/database.php&#10;.env&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/.env&#10;web&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/routes/web.php&#10;Elect&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Http/Controllers/ElectionResultsController.php&#10;Elec&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/resources/views/frontend/electionResults.blade.php&#10;we&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/routes/web.php&#10;fie&#9;null&#9;null&#10;Election&#9;null&#9;null&#10;welcome&#9;null&#9;null&#10;helpers&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/helpers.php&#10;Aspi&#9;null&#9;null&#10;Vote&#9;null&#9;null&#10;f&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/public/brackets/js/flot/jquery.flot.min.js&#10;custom&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/public/brackets/js/custom.js&#10;categor&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/public/brackets/js/flot/jquery.flot.categories.min.js&#10;charts&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/public/brackets/js/charts.js&#10;HomeC&#9;null&#9;null&#10;Comp&#9;null&#9;null&#10;elect&#9;null&#9;null&#10;elec&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Http/Controllers/Backend/Election/ElectionController.php&#10;cre&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/resources/views/backend/createElection.blade.php&#10;Carbon&#9;null&#9;null&#10;bootstrap.css&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/css/bootstrap.min.css&#10;Field&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Http/Controllers/Backend/Election/FieldAgentController.php&#10;admin&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/routes/backend/admin.php&#10;As&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Models/Aspirant.php&#10;side&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/resources/views/backend/includes/sidebar.blade.php&#10;Agent&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Http/Controllers/Backend/Election/AgentAssignmentController.php&#10;getPollingStation&#9;null&#9;null&#10;User&#9;null&#9;null&#10;footer&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/resources/views/backend/includes/footer.blade.php&#10;Electi&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Models/Election.php&#10;Aspir&#9;null&#9;null&#10;PlaceTy&#9;null&#9;null&#10;Place&#9;null&#9;null&#10;USer&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Models/Auth/User.php&#10;Compos&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Providers/ComposerServiceProvider.php&#10;fiel&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Http/Controllers/Backend/Election/FieldAgentController.php&#10;Ele&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Models/Election.php&#10;Agen&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Models/AgentAssignment.php&#10;Glo&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Http/Composers/GlobalComposer.php&#10;Side&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/resources/views/backend/includes/sidebar.blade.php&#10;Composer&#9;null&#9;null&#10;Sid&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/resources/views/backend/includes/sidebar.blade.php&#10;Pl&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Models/Place.php&#10;Login&#9;null&#9;null&#10;isAdmin&#9;null&#9;null&#10;Elc&#9;FILE&#9;file://C:/xampp/htdocs/elect_monitor/app/Http/Controllers/Elections/ElectionController.php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cott" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JavaScript" />
   </component>
   <component name="RecentsManager">
@@ -657,7 +641,9 @@
       <workItem from="1529845075528" duration="93203000" />
       <workItem from="1530096432668" duration="12335000" />
       <workItem from="1530116524234" duration="34145000" />
-      <workItem from="1530600553598" duration="13404000" />
+      <workItem from="1530600553598" duration="17250000" />
+      <workItem from="1530879406616" duration="1032000" />
+      <workItem from="1536911113347" duration="855000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1530603266132</created>
@@ -666,33 +652,56 @@
       <option name="project" value="LOCAL" />
       <updated>1530603266132</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="database creds">
+      <created>1530626667501</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1530626667501</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Hid dummy menu">
+      <created>1530627738878</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1530627738878</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172583000" />
+    <option name="totallyTimeSpent" value="178316000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2873016" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29320988" sideWeight="0.5063492" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29320988" sideWeight="0.4936508" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2968254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -725,7 +734,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="database creds" />
-    <option name="LAST_COMMIT_MESSAGE" value="database creds" />
+    <MESSAGE value="Hid dummy menu" />
+    <MESSAGE value="Wrap commit september 14th 2018" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wrap commit september 14th 2018" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -736,7 +747,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -870,7 +880,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -878,7 +887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -901,7 +909,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -930,7 +937,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="15" column="81" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="81" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -938,7 +944,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -961,7 +966,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="17" column="123" lean-forward="false" selection-start-line="17" selection-start-column="123" selection-end-line="17" selection-end-column="123" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -969,7 +973,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -977,32 +980,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2736">
           <caret line="171" column="14" lean-forward="false" selection-start-line="171" selection-start-column="14" selection-end-line="171" selection-end-column="14" />
-          <folding>
-            <marker date="1529992807295" expanded="true" signature="1216:1514" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="1284:1298" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="1346:1405" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="1451:1467" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="1891:2187" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="1958:1972" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="2020:2078" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="2124:2140" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="2556:2845" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="2620:2634" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="2682:2736" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="2782:2798" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="4912:5617" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="4927:5409" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="5154:5168" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="5249:5266" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="5483:5526" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="5598:5615" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="7491:8196" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="7506:7992" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="7741:7755" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="7828:7857" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="8058:8101" ph="..." />
-            <marker date="1529992807295" expanded="true" signature="8165:8194" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1010,7 +987,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1018,7 +994,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1026,7 +1001,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1034,15 +1008,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="e#40#93#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/frontend/electionResults.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="224">
           <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
           <folding />
         </state>
@@ -1060,54 +1031,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/backend/electionDataForms.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
+        <state relative-caret-position="1728">
           <caret line="108" column="78" lean-forward="false" selection-start-line="108" selection-start-column="78" selection-end-line="108" selection-end-column="78" />
-          <folding>
-            <element signature="e#690#5039#0#HTML" expanded="false" />
-            <element signature="e#2131#3573#0#HTML" expanded="false" />
-            <element signature="e#3973#4940#0#HTML" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/backend/includes/partials/photosGallery.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="128" column="0" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
-          <folding>
-            <marker date="1530212450252" expanded="true" signature="4773:6010" ph="..." />
-            <marker date="1530212450252" expanded="true" signature="4961:5322" ph="..." />
-            <marker date="1530212450252" expanded="true" signature="4972:5321" ph="..." />
-            <marker date="1530212450252" expanded="true" signature="5411:5998" ph="..." />
-            <marker date="1530212450252" expanded="true" signature="5427:5997" ph="..." />
-            <marker date="1530212450252" expanded="true" signature="6012:6018" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/frontend/layouts/electionApp.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="67" column="26" lean-forward="false" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/frontend/electionIndex.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-          <folding>
-            <element signature="e#519#546#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1123,7 +1049,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1131,22 +1056,59 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="58" column="29" lean-forward="true" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="163" column="35" lean-forward="false" selection-start-line="163" selection-start-column="35" selection-end-line="163" selection-end-column="35" />
+        <state relative-caret-position="392">
+          <caret line="178" column="35" lean-forward="false" selection-start-line="178" selection-start-column="35" selection-end-line="178" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/includes/partials/photosGallery.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2048">
+          <caret line="128" column="0" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+          <folding>
+            <marker date="1530212450252" expanded="true" signature="4773:6010" ph="..." />
+            <marker date="1530212450252" expanded="true" signature="4961:5322" ph="..." />
+            <marker date="1530212450252" expanded="true" signature="4972:5321" ph="..." />
+            <marker date="1530212450252" expanded="true" signature="5411:5998" ph="..." />
+            <marker date="1530212450252" expanded="true" signature="5427:5997" ph="..." />
+            <marker date="1530212450252" expanded="true" signature="6012:6018" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/layouts/electionApp.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="55" column="76" lean-forward="false" selection-start-line="55" selection-start-column="76" selection-end-line="55" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/frontend/electionIndex.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="34" column="72" lean-forward="true" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="72" />
           <folding />
         </state>
       </provider>
